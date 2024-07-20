@@ -8,7 +8,7 @@ This is my own hyprlock config with scripts to get current keyboard language
 
 ## ❗Prerequisites
 
-This config use date util, python, hyprctl (you need to make sure that you have installed it) and custom scripts, so you need to change path to scripts in hyprlock.conf and in get_current_keyboard_layout.sh
+This config use date util, python, hyprctl (you need to make sure that you have installed it) and custom scripts, so you need to change path to scripts in hyprlock.conf
 
 ## 💡Installation
 
