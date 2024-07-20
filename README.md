@@ -12,7 +12,7 @@ This config use date util, [hyprctl](https://wiki.hyprland.org/Configuring/Using
 
 ## 💡Installation
 
-Simply download this [release](https://github.com/lenarus/simpleStylishHyprlock/releases)(c++ file will already be compiled), and move hyprlock.conf to ~/.config/hypr/ and move scripts anywhere you want(don't forget to change paths)
+Simply download this [release](https://github.com/lenarus/simpleStylishHyprlock/releases)(c++ file will already be compiled), move hyprlock.conf to ~/.config/hypr/ and move scripts anywhere you want(don't forget to change paths)
 
 
 ### 🛠️Tested
