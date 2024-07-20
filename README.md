@@ -13,3 +13,7 @@ This config use date util, python, hyprctl (you need to make sure that you have 
 ### Installing
 
 Simply download this repo, and move hyprlock.conf to ~/.config/hypr/ and move scripts anywhere you want(don't forget to change paths)
+
+### Tested
+
+Tested Hyprland (Wayland) Arch Linux x86_64 kernel Linux 6.9.7-zen1-1-zen
