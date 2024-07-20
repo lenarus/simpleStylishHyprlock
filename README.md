@@ -1,4 +1,4 @@
-# 🌟Simple and Stylish hyprlock
+# 🌟Simple and Stylish [hyprlock](https://wiki.hyprland.org/Hypr-Ecosystem/hyprlock/)
 
 This is my own hyprlock config with scripts to get current keyboard language
 
