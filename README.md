@@ -10,6 +10,8 @@ This is my own hyprlock config with scripts to get current keyboard language
 
 This config use date util, [hyprctl](https://wiki.hyprland.org/Configuring/Using-hyprctl/) (you need to make sure that you have installed it) and custom scripts, so you need to change path to scripts in hyprlock.conf
 
+Also you should download nerd fonts
+
 ## 💡Installation
 
 Simply download this [release](https://github.com/lenarus/simpleStylishHyprlock/releases)(c++ file will already be compiled), move hyprlock.conf to ~/.config/hypr/ and move scripts anywhere you want(don't forget to change paths)
