@@ -14,7 +14,7 @@ Also you should download nerd fonts
 
 ## 💡Installation
 
-Simply download this [release](https://github.com/lenarus/simpleStylishHyprlock/releases)(c++ file will already be compiled), move hyprlock.conf to ~/.config/hypr/ and move scripts anywhere you want(don't forget to change paths)
+Simply download this repo, move hyprlock.conf to ~/.config/hypr/ and move scripts anywhere you want(don't forget to change paths)
 
 
 ### 🛠️Tested
